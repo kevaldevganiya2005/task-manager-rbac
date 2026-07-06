@@ -96,9 +96,9 @@ npm install
 ### 3️⃣ Create `.env` File
 
 ```env
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
+PORT=3000
+MONGO_URL=mongodb+srv://kevaldevganiya25_db_user:keval123@cluster0.hhx3drd.mongodb.net/Task_Manager
+JWT_SECRET=super_secret_key_123
 ```
 
 ### 4️⃣ Run the Server
